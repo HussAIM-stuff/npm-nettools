@@ -1,0 +1,25 @@
+{
+  "name": "npm-nettools",
+  "version": "1.0.0",
+  "description": "Interact with the network using bash/powershell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/husseinodeh/npm-nettools.git"
+  },
+  "keywords": [
+    "nmap",
+    "ip",
+    "ping",
+    "bash"
+  ],
+  "author": "Hussein Abdeljabbar Ismail Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/husseinodeh/npm-nettools/issues"
+  },
+  "homepage": "https://github.com/husseinodeh/npm-nettools#readme"
+}
