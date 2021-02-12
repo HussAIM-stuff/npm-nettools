@@ -22,7 +22,7 @@ const defaults = {
 // }
 
 
-exports async function lsAll() {
+exports.lsAll = async function () {
   const { stdout, stderr } = await execP('ls -al');
   console.log('stdout:\n', stdout.split('\n').map(el => {
     if(el[0] === 'd' || el[0] === '-') {
