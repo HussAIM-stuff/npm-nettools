@@ -1,6 +1,6 @@
 {
   "name": "npm-nettools",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Interact with the network using bash/powershell",
   "main": "index.js",
   "scripts": {
