@@ -1,6 +1,6 @@
-// const util = require('util');
+const util = require('util');
 const { exec } = require('child_process');
-// const execP = util.promisify(exec);
+const execP = util.promisify(exec);
 const defaults = {
   encoding: 'utf8',
   timeout: 0,
